@@ -36,4 +36,65 @@ The data engineering team has been tasked with designing a new system to resolve
 
 * Transform the normalized operational database schema into a denormalized data warehouse schema to enhance analytics and reporting capabilities.
 
+Here's a numbered list of the columns along with their data types, based on the given data and typical data types used in a database context:
+
+## Database Columns and Data Types
+
+Below is a list of database columns with their corresponding data types and descriptions:
+
+1. **TransactionID** - Integer  
+   A unique identifier for each transaction.
+
+2. **TransactionType** - Text/Varchar  
+   The type of transaction, such as "withdrawal" or "deposit".
+
+3. **Amount** - Decimal/Numeric  
+   The monetary amount involved in the transaction.
+
+4. **TransactionDate** - Date  
+   The date on which the transaction occurred.
+
+5. **CustomerID** - Integer  
+   A unique identifier for each customer.
+
+6. **FullName** - Text/Varchar  
+   The full name of the customer.
+
+7. **Email** - Text/Varchar  
+   The email address of the customer. This may require a unique constraint to avoid duplicates.
+
+8. **Phone** - Text/Varchar  
+   The phone number of the customer.
+
+9. **AccountID** - Integer  
+   A unique identifier for each account.
+
+10. **AccountType** - Text/Varchar  
+   The type of account, such as "Savings" or "Credit".
+
+11. **Balance** - Decimal/Numeric  
+   The current balance in the account.
+
+12. **OpeningDate** - Date  
+   The date when the account was opened.
+
+13. **LoanID** - Integer  
+   A unique identifier for each loan.
+
+14. **LoanAmount** - Decimal/Numeric  
+   The principal amount for the loan.
+
+15. **LoanType** - Text/Varchar  
+   The type of loan, such as "Mortgage" or "Personal".
+
+16. **StartDate** - Date  
+   The start date of the loan.
+
+17. **EndDate** - Date/Interval  
+   The end date or duration of the loan. It could be a specific date or a time interval.
+
+18. **InterestRate** - Decimal/Numeric  
+   The interest rate for the loan.
+
+
 
