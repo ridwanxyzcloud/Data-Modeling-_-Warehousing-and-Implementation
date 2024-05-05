@@ -36,3 +36,4 @@ The data engineering team has been tasked with designing a new system to resolve
 
 * Transform the normalized operational database schema into a denormalized data warehouse schema to enhance analytics and reporting capabilities.
 
+
