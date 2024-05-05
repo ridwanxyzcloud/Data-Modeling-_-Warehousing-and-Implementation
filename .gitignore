@@ -1,0 +1,20 @@
+# Ignore common development files
+*.pyc
+__pycache__/
+.DS_Store
+*.log
+*.tmp
+*.bak
+
+# Ignore environment files
+.env
+.vscode/
+
+# Ignore specific IDE/project files
+.idea/
+.vscode/
+node_modules/
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
