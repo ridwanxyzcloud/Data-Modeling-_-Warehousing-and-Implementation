@@ -38,12 +38,17 @@ The data engineering team has been tasked with designing a new system to resolve
 
 
 ## Zulo Bank Dataset
+![](ZuloBank-raw-dataset.csv)
+
 ![Zulo Bank Dataset](ZuloBank-raw-dataset.csv)
-Here's a numbered list of the columns along with their data types, based on the given data and typical data types used in a database context:
+
+https://github.com/ridwanxyzcloud/Data-Modeling-and-Warehousing/blob/466b51ff26d6c060fb33e480fe79a68628a6f138/ZuloBank-raw-dataset.csv
+
+based on the given data and typical data types used in a database context:
 
 ## Database Columns and Data Types
 
-Below is a list of database columns with their corresponding data types and descriptions:
+Based on the given data and typical data types used in a database context. Below is a list of database columns with their corresponding suggested data types and descriptions:
 
 1. **TransactionID** - Integer  
    A unique identifier for each transaction.
