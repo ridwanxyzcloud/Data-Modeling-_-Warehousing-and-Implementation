@@ -1,7 +1,5 @@
-
 # Overview
 
-## Overview
 This repository explores the creation of schema designs, normalization, and denormalization for a bank. It covers the process of building modelled databases, loading data into them, and executing ETL (Extract, Transform, Load) operations to transfer data into a data warehouse. This project uses PostgreSQL for relational database design and data warehousing, focusing on best practices and practical implementations.
 
 * Data modeling is the process of creating a visual representation of data structures and relationships to facilitate the design, implementation, and maintenance of a database. It helps in organizing and understanding data, ensuring that it can be accessed, stored, and manipulated efficiently while supporting business requirements.
