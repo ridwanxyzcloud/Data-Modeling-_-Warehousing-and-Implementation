@@ -1,10 +1,10 @@
 
-# Data Modeling and Warehousing
+# Overview
 
 ## Overview
-This repository is dedicated to exploring the fundamentals of data modeling, normalization, and data warehousing. It provides examples, case studies, and best practices for designing databases that meet business requirements while maintaining efficiency and scalability.
+This repository explores the creation of schema designs, normalization, and denormalization for a bank. It covers the process of building modelled databases, loading data into them, and executing ETL (Extract, Transform, Load) operations to transfer data into a data warehouse. This project uses PostgreSQL for relational database design and data warehousing, focusing on best practices and practical implementations.
 
-Data modeling is the process of creating a visual representation of data structures and relationships to facilitate the design, implementation, and maintenance of a database. It helps in organizing and understanding data, ensuring that it can be accessed, stored, and manipulated efficiently while supporting business requirements.
+* Data modeling is the process of creating a visual representation of data structures and relationships to facilitate the design, implementation, and maintenance of a database. It helps in organizing and understanding data, ensuring that it can be accessed, stored, and manipulated efficiently while supporting business requirements.
 
 ## Types of Data Models
 - **Conceptual Model**: Focuses on high-level business requirements and relationships.
