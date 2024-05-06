@@ -38,13 +38,10 @@ The data engineering team has been tasked with designing a new system to resolve
 
 
 ## Zulo Bank Dataset
-![](ZuloBank-raw-dataset.csv)
 
 ![Zulo Bank Dataset](ZuloBank-raw-dataset.csv)
 
-https://github.com/ridwanxyzcloud/Data-Modeling-and-Warehousing/blob/466b51ff26d6c060fb33e480fe79a68628a6f138/ZuloBank-raw-dataset.csv
-
-based on the given data and typical data types used in a database context:
+![Zulo Bank Dataset](https://github.com/ridwanxyzcloud/Data-Modeling-and-Warehousing/blob/466b51ff26d6c060fb33e480fe79a68628a6f138/ZuloBank-raw-dataset.csv)
 
 ## Database Columns and Data Types
 
