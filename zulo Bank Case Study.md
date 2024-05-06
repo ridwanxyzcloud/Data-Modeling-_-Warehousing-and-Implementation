@@ -36,6 +36,9 @@ The data engineering team has been tasked with designing a new system to resolve
 
 * Transform the normalized operational database schema into a denormalized data warehouse schema to enhance analytics and reporting capabilities.
 
+
+## Zulo Bank Dataset
+![Zulo Bank Dataset](ZuloBank-raw-dataset.csv)
 Here's a numbered list of the columns along with their data types, based on the given data and typical data types used in a database context:
 
 ## Database Columns and Data Types
