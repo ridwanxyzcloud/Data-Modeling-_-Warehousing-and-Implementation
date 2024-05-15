@@ -38,4 +38,21 @@ Due to the business requirement, two fact tables were considered for Zulo Bank
 
 ![Zulo Data Warehouse Model](Zulo_DW_Model.png)
 
+### Setting up a database client library
+
+You can use a package manager like ```pip``` to install the Python library or module that provides connectivity to the chosen DBMS. This library will allow your Python code to communicate with the database.
+
+Common DB client libraries are:
+
+```psycopg2``` for Postgres Databases
+
+```cx_Oracle``` for Oracle Databases
+
+```pyodbc``` for SQL Server
+
+```pymongo``` for Mongo DB
+
+```sqlalchemy```
+
+
 
