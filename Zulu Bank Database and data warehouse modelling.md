@@ -10,7 +10,8 @@ The goal of normalization is a way to simplify the data , by removing repeated d
 * 2NF broke the dataset into different unique tables
 * 3NF was acheived by creating a new date table
 
-![Normalization process](0NF_1NF_2NF.png)
+![Normalization process](/Data Models
+/0NF_1NF_2NF.png)
 
 ##
 
@@ -19,7 +20,7 @@ The goal of normalization is a way to simplify the data , by removing repeated d
 ##
 ### The Database Model 
 
-![Zulo Database Model](Zulo_DB_Model.png)
+![Zulo Database Model](../'Data Model'/Zulo_DB_Model.png)
 
 ##
 
