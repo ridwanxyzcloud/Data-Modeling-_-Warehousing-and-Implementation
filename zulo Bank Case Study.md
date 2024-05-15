@@ -39,7 +39,7 @@ The data engineering team has been tasked with designing a new system to resolve
 
 ## Zulo Bank Dataset
 
-![Zulo Bank Dataset](ZuloBank-raw-dataset.csv)
+![Zulo Bank Dataset](zulo_bank_dataset.csv)
 
 
 ## Database Columns and Data Types
